@@ -1,5 +1,5 @@
 ============================================
-PHProxyImproved
+PHProxyImproved - forked from <https://github.com/emersion/phproxy-improved>
 http://phproxyimproved.com - no longer working. Just for reference
 ============================================
 
