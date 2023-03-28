@@ -1,13 +1,13 @@
 ============================================
 PHProxyImproved
-http://phproxyimproved.com
+http://phproxyimproved.com - no longer working. Just for reference
 ============================================
 
 All source code is licensed under the GNU General Public License, Version 3. See license.txt for license terms and conditions.
 Credit is comment in code, if not deviliped by PHProxyimproved.com
 
 For support issues relating to the operation of this software, please use our support forum located at the following URL: 
-<http://www.proxyhelp.org/mybb>
+<http://www.proxyhelp.org/mybb>  - no longer working. Just for reference
 
 I. Setup
 
